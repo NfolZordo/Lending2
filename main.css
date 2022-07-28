@@ -102,6 +102,7 @@ main>* {
   color: var(--dark-blue);
   margin-top: 56px;
   padding-right: var(--side-pading);
+  border-radius: 1px;
 }
 
 .intro-midl {
@@ -594,6 +595,7 @@ main>* {
   height: auto;
   margin-left: -150px;
   margin-top: 150px;
+  overflow: hidden;
 }
 
 .frispes-gallery p {
@@ -698,6 +700,7 @@ main>* {
   flex-shrink: 0;
   flex-direction: column;
   height: 525px;
+  overflow: hidden;
 }
 
 .reviews-head {
